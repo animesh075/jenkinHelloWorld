@@ -1,7 +1,7 @@
 
 public class helloWorld {
 	public static void main(String[] args) {
-		System.out.println("____*****Hello World & welcome to Jenkins Training*****_____");
+		System.out.println("____***** MADE SOME CHANGES *****_____");
 	}
 
 }
